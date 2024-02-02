@@ -10,7 +10,7 @@ status = "online" #online/dnd/idle
 
 custom_status = ".gg/bloxclash" 
 
-usertoken = "MTE4ODY4MTU0MjI2NDk1OTAxNw.GosE57.VOfsjHO-OFMj4FlfYflinp_o1yjJlwYOcuIlcY"
+usertoken = "MTE4ODY4MTU0MjI2NDk1OTAxNw.GH3Aih._HP0AyzeChEbBaGpqwTu_t5Q1SF684gt05NzX8"
 if not usertoken:
     print("[ERROR] Please add a token inside Secrets.")
     sys.exit()
